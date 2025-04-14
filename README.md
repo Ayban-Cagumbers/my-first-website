@@ -1,2 +1,2 @@
-# my-first-website
-This is my first website on GitHub
+# About my first website
+This is my first website on GitHub 
